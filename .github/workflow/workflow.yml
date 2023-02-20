@@ -1,6 +1,6 @@
 name: Creatoe
 
-on 
+on:
   push: 
       branches: 
         - "master"
