@@ -1,7 +1,6 @@
 name: Creatoe
 
 on:
-  workflow_dipatch
   push: 
     branches: 
       - master
